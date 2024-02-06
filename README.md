@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Utsav</h1>
-<!-- <p align = "center">Fullstack Developer | Open Source Enthusiast</p> -->
+<p align = "center">Fullstack Developer | Open Source Enthusiast | </p>
 
 Hi everyone, I am Utsav Sutariya, student at Shree Ramkrishna Institute of Computer Education and Applied Sciences. I'm passionate about coding, learning new technologies, and building interesting projects.
 
@@ -21,7 +21,7 @@ Currently, I am working on [ClassHub](https://github.com/Utsav-06/ClassHub.git),
     <img src="./Icons/Django.svg" width="48" />&nbsp&nbsp
 </p>
 
-
+<br>
 <h3 float="left">Connect with me 📝</h3>
 <p float="left">
     <a href="https://www.linkedin.com/in/utsav-sutariya-626a82245/" >
