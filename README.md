@@ -15,8 +15,6 @@ Currently, I am working on [ClassHub](https://github.com/Utsav-06/ClassHub.git),
     <img src="./Icons/CS.svg" width="48" /> &nbsp&nbsp
     <img src="./Icons/Java-Dark.svg" width="48" /> &nbsp&nbsp
     <img src="./Icons/Python-Dark.svg" width="48" /> &nbsp&nbsp
-    <img src="./Icons/html.svg" width="40" />&nbsp&nbsp
-    <img src="./Icons/css.svg" width="40" />&nbsp&nbsp
     <img src="Icons/javascript.svg" width="40" />&nbsp&nbsp
     <img src="./Icons/Django.svg" width="48" />&nbsp&nbsp
 </p>
