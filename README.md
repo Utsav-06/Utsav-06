@@ -11,7 +11,7 @@ Currently, I am working on [ClassHub](https://github.com/Utsav-06/ClassHub.git),
 <br>
 <h3 align="left">My Technology Stack</h3>
 <p>
-    <img src="./Icons/c.svg" width="48" /> &nbsp&nbsp
+    <img src="./Icons/c.svg" width="46" /> &nbsp&nbsp
     <img src="./Icons/CS.svg" width="48" /> &nbsp&nbsp
     <img src="./Icons/Java-Dark.svg" width="48" /> &nbsp&nbsp
     <img src="./Icons/Python-Dark.svg" width="48" /> &nbsp&nbsp
