@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Utsav</h1>
-<p align = "center">Fullstack Developer | Open Source Enthusiast</p>
 
 Hi everyone, I am Utsav Sutariya, student at Shree Ramkrishna Institute of Computer Education and Applied Sciences. I'm passionate about coding, learning new technologies, and building interesting projects.
 
